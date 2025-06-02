@@ -49,10 +49,9 @@ Our team of four developers collaborated closely to build this application, with
 
 | Team Member | Assigned Page              | Profile Link                        |
 | :---------- | :------------------------- | :---------------------------------- |
-| Member 1    | index.html and userprofile.html | [Sagar1643](https://github.com/Sagar1643)  |
-| Member 2    | foodlogger.html          | [niharika2024-gi](https://github.com/niharika2024-gi) |
-| Member 3    | exercise.html            | [Nishmitha28](https://github.com/Nishmitha28) |
-| Member 4    | progressreport.html      | [Rakshith-AR](https://github.com/Rakshith-AR) |
+| Member 1    | index.html and userprofile.html | [Likhitha |
+| Member 2    | foodlogger.html          | gangothri  |
+| Member 3     |food terack|manasa|
 
 ### 🛠 Our Workflow
 
